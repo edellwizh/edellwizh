@@ -11,7 +11,7 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Halo,%20I'M%20edellwizh&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Halo,%20I'm%20edellwizh&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <p align="center">Exploring Backend Developer & ERP Analyst</p>
@@ -21,7 +21,7 @@
 ### Details / About Me
 
 - **Current Role**: Information Systems Student at Binus University
-- **Focus Area**: Python, Github, Business Procrsses & Machine Learning
+- **Focus Area**: Python, Github, Business Process & Machine Learning
 - **Career Goal**: Backend Developer & ERP Analyst
 - **Fun fact**: like matcha
 
@@ -58,7 +58,7 @@
 ### GitHub Stats (opsional)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edellwizh&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edellwizh&show_icons=true&hide=commits,prs,issues,contributions&theme=tokyonight" alt="Total Repo" width="50%" />
 </p>
 
 <!--
